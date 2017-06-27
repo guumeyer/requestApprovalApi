@@ -4,13 +4,19 @@ The ideia is simple web api wrote in goland and using mongodb database.
 
 ## INSTRUCTION
 Golang 
+
 minimal version: 1.7
+
 doc: https://golang.org/doc/install#install
 
+
 go get goji.io
+
 go get gopkg.in/mgo.v2
 
+
 Mongodb 
+
 https://docs.mongodb.com/manual/installation/
 
 
