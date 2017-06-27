@@ -32,7 +32,7 @@ type Request struct {
 }
 
 func main() {
-	session, err := mgo.Dial("mongodb://supero_guest:supero123@ds139242.mlab.com:39242/requestsapproval")
+	session, err := mgo.Dial("<url mongo database>")
 	if err != nil {
 		panic(err)
 	}
